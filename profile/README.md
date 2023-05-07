@@ -1,33 +1,39 @@
-## 👩‍ Fire Magic - Estrutura de Serviços
+## :fire: Fire Magic - Estrutura de Serviços
 
 # Infra
 - Railway
 
 # Serviços
 
-- Chandra Microservice
-DB - Postgres
-( Back-end Node NestJs )
- - Auth
- - Users
- - Store
- - Decks
+## Chandra Microservice
 
-- Jace 
-( Front-End )
+- NestJs
+* Postgres
+
+```
+  Auth
+  Users
+  Store
+  Decks
+```
+## Jace - Front-End 
+
 - Tailwindcss and NextJs13
 
-- Tibalt Microservice
-DB - MongoDB
-( Back-end Python )
- - Tournaments
- - Eventlink
- - Companion
+## Tibalt Microservice
+- MongoDB
+- Python
+```
+Tournaments
+Eventlink
+Companion
+```
 
-- Ajani - ( BFF )
+## Ajani - BFF
+
  - NestJs and NodeJs using SQS
  - Communicate chandra and tibalt
 
-- Teferi ( Front-End Landing-Page )
+## Teferi - Landing-Page
 - GatsbyJs and Tailwindcss
 
