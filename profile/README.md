@@ -8,7 +8,7 @@
 ## Chandra Microservice
 
 - NestJs
-* Postgres
+* MongoDB
 
 ```
   Auth
