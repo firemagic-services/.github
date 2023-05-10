@@ -29,11 +29,6 @@ Eventlink
 Companion
 ```
 
-## Ajani - BFF
-
- - NestJs and NodeJs using SQS
- - Communicate chandra and tibalt
-
 ## Teferi - Landing-Page
 - GatsbyJs and Tailwindcss
 
