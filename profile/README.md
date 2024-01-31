@@ -29,6 +29,6 @@ Eventlink
 Companion
 ```
 
-## Teferi - Landing-Page
+## Landing-Page
 - GatsbyJs and Tailwindcss
 
